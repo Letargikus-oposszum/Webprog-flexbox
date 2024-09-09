@@ -1,0 +1,43 @@
+/**1# feladat**/
+#main{
+    width: 100%;
+    height: 300px;
+}
+#green{
+    width: 100%;
+    height: 100%;
+    background-color: greenyellow;
+}
+
+#yellow{
+    width: 100%;
+    height: 100%;
+    background-color:darkgoldenrod;
+}
+
+#purple{
+    width: 100%;
+    height: 100%;
+    background-color: blueviolet;
+}
+/**2# feladat**/
+#green{
+    width: 100%;
+    height: 100%;
+    background-color: greenyellow;
+}
+
+#yellow{
+    width: 200%;
+    height: 100%;
+    background-color:darkgoldenrod;
+}
+
+#purple{
+    width: 100%;
+    height: 100%;
+    background-color: blueviolet;
+}
+/**3# feladat**/
+
+/**4# feladat**/
